@@ -7,12 +7,12 @@ Esta actividad consiste en programar una Calculadora con funciones aritméticas 
 ## Ejemplo de ejecución
 
 ```
-Operando 1: 12
-Operando 2: 4
-La suma es: 16
-La resta es: 8
-La multiplicación es: 48
-La división es: 3
+Operando 1:12
+Operando 2:4
+La suma es:16
+La resta es:8
+La multiplicación es:48
+La división es:3
 ```
 Recuerda utilizar el comando `make run` para mostrar la ejecución de tu programa en consola.
 
