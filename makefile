@@ -1,7 +1,7 @@
 all: clean test
 
 appTests: test/tests.cpp
-	g++ -Wall --std=c++17 --std=c++17 test/tests.cpp test/catch_amalgamated.cpp calculadora.cpp -o build/appTests
+	g++ -Wall --std=c++17 test/tests.cpp test/catch_amalgamated.cpp calculadora.cpp -o build/appTests
 
 test: appTests
 	# executes all tests
