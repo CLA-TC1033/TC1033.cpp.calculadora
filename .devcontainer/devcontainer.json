@@ -8,8 +8,10 @@
 				"GitHub.copilot",
 				"hediet.vscode-drawio",
 				"bierner.markdown-mermaid",
-				"mhutchie.git-graph"
+				"mhutchie.git-graph",
+				"ms-vscode.copilot-mermaid-diagram"
 			]
 		}
-	}
+	},
+	"postCreateCommand": "make clean && clear"
 }
